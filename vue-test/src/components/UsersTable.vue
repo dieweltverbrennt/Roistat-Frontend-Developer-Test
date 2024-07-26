@@ -40,6 +40,7 @@ export default {
 <style scoped>
 .table {
     width: 60%;
+    min-width: 300px;
     margin: auto;
     border: solid var(--border-width) var(--primary-color);
     border-radius: var(--border-radius);
